@@ -1,2 +1,2 @@
-# datascience
-datascience coursera course
+# data science
+data science coursera course
